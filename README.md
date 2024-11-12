@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ilia Fatemi! 👋
 
-<!--
-**IliaFatemi/IliaFatemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Computing Science student at Simon Fraser University** with a strong interest in building web applications, analyzing data, and developing engaging software solutions. With hands-on experience in both frontend and backend technologies, I bring a strong understanding of full-stack development and data analysis. I enjoy creating efficient, scalable applications and exploring the intersections of technology and user experience.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,javascript,typescript,angular,flask,postgresql,docker,html,googlecloud,azure,c,cpp)](https://skillicons.dev)
+
+
+
+### 🎓 Education
+
+**Simon Fraser University**  
+Bachelor of Science – Major in Computing Science  
+
+
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-IliaFatemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iliafatemi/)](https://www.linkedin.com/in/iliafatemi/)
+  [![Outlook Badge](https://img.shields.io/badge/-fatemiilia@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:fatemiilia@outlook.com)](mailto:fatemiilia@outlook.com)
+</div>
