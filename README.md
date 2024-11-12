@@ -18,4 +18,5 @@ Bachelor of Science – Major in Computing Science
   
   [![Linkedin Badge](https://img.shields.io/badge/-IliaFatemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iliafatemi/)](https://www.linkedin.com/in/iliafatemi/)
   [![Outlook Badge](https://img.shields.io/badge/-fatemiilia@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:fatemiilia@outlook.com)](mailto:fatemiilia@outlook.com)
+  [![Resume Badge](https://img.shields.io/badge/-Download%20Resume-gray?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&link=./Ilia_Fatemi_Resume.pdf)](./Ilia_Fatemi_Resume.pdf)
 </div>
