@@ -14,9 +14,14 @@ Welcome to my GitHub profile! I'm a **Computing Science student at Simon Fraser 
 Bachelor of Science – Major in Computing Science  
 
 
+
+
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-IliaFatemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iliafatemi/)](https://www.linkedin.com/in/iliafatemi/)
   [![Outlook Badge](https://img.shields.io/badge/-fatemiilia@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:fatemiilia@outlook.com)](mailto:fatemiilia@outlook.com)
-  [![Resume Badge](https://img.shields.io/badge/-Download%20Resume-gray?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&link=./Ilia_Fatemi_Resume.pdf)](./Ilia_Fatemi_Resume.pdf)
+  <a href="https://raw.githubusercontent.com/IliaFatemi/IliaFatemi/main/Ilia_Fatemi_Resume.pdf">
+    <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume - Full-Stack"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=IliaFatemi" onerror="this.style.display='none'"/>
 </div>
