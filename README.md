@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Computing Science student at Simon Fraser 
 
 ### 🔧 Technologies & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,javascript,typescript,angular,flask,postgresql,docker,html,googlecloud,azure,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,javascript,typescript,postgresql,html,css,nodejs,angular,flask,docker,googlecloud,azure,cmake)](https://skillicons.dev)
 
 
 
